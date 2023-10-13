@@ -347,4 +347,5 @@ ol {
   width: 180px;
   height: 107px;
   padding: 2px 2px 2px 0;
+  object-fit: cover;
 }
