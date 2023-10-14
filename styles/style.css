@@ -258,7 +258,7 @@ ol {
 .title {
   min-height: 210px;
   color: #FFF;
-  font-family: Oswald;
+  font-family: 'Oswald', sans-serif;
   font-size: 75px;
   font-style: normal;
   font-weight: 700;
@@ -272,7 +272,6 @@ ol {
 }
 
 .content__list {
-  width: 415px;
   height: 305px;
   overflow: auto;
   position: relative;
